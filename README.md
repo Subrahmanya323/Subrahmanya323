@@ -38,10 +38,13 @@ Role-based bookstore app using **Angular**, **Spring Boot**, and **MySQL** with 
 
 ---
 
-### 🏆 Certifications
+### 🏆 Certifications & Achievements
+
 - ✅ Design Thinking – Infosys Springboard  
 - ✅ HTML, CSS and JavaScript – Infosys Springboard  
-- ✅ Soft Skills Development – NPTEL (IIT Kharagpur)
+- ✅ Soft Skills Development – NPTEL (IIT Kharagpur)  
+- 🥇 Finalist – **AI to GLOW Hackathon** (Artificial Intelligence to Generate Limitless Opportunities WorldWide)  
+  Hosted by ICER, VIT Bangalore – March 26 to April 6, 2025
 
 ---
 
