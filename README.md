@@ -24,15 +24,15 @@ Welcome to my GitHub! I'm currently pursuing my MCA at Dayananda Sagar Academy o
 
 ### 💼 Projects
 
-#### 🧠 SmartFarm Areca 🌱
+#### 🧠 SmartFarm Areca 🌱  
 A bilingual full-stack app for arecanut farmers, built with **React**, **Spring Boot**, and **MySQL**. Features guides, disease tips, and live market updates with JSoup-powered scraping.  
 👉 [Add GitHub Link Once Repo is Live]
 
-#### 🎓 Student Management System 📘
+#### 🎓 Student Management System 📘  
 Full-stack CRUD application with **React.js**, **Spring Boot**, and **MongoDB**. Designed with robust form validations and real-time toast feedback.  
 👉 [Add GitHub Link Once Repo is Live]
 
-#### 📚 Bookstore Management System (Internship)
+#### 📚 Bookstore Management System (Internship)  
 Role-based bookstore app using **Angular**, **Spring Boot**, and **MySQL** with secure login and RESTful APIs.  
 👉 [Add GitHub Link Once Repo is Live]
 
@@ -49,6 +49,7 @@ Role-based bookstore app using **Angular**, **Spring Boot**, and **MySQL** with 
 ---
 
 ### 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/subrahmanya-h-7977172b4)  
 📧 slhebbar323@gmail.com  
 📍 Kanakapura, Ramanagara, Karnataka  
@@ -57,8 +58,8 @@ Role-based bookstore app using **Angular**, **Spring Boot**, and **MySQL** with 
 
 ### 📊 GitHub Stats
 
-![Subrahmanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Subrahmanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrahmanya323&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrahmanya323&layout=compact&theme=radical)
 
 ---
 
